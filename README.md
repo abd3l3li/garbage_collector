@@ -1,4 +1,4 @@
-#This is a quick coding for a garbage collector made by @abel-baz
+#This is a quick code for a garbage collector made by @abel-baz
 
 ##You can cutomize it for more flexibility 
 
